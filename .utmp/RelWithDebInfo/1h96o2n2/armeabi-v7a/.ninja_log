@@ -1,0 +1,23 @@
+# ninja log v5
+4	340	1763663933212868320	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c3a260e163b0074d
+4	1615	1763663934508499074	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b0b23f09ce69196b
+1882	2091	1763663934985514331	/Users/nontthanakon/Documents/tomatocat-digital/Gem2Rail/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1h96o2n2/obj/armeabi-v7a/libgame.so	9c052442eca58894
+341	645	1763663933512637614	/Users/nontthanakon/Documents/tomatocat-digital/Gem2Rail/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1h96o2n2/obj/armeabi-v7a/libswappywrapper.so	d5ce07cc0cbf12a9
+3	1569	1763663934461011161	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	707fb65316f6c5a7
+4	1541	1763663934410892535	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8820b64597c4190d
+4	1594	1763663934487579205	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	369b5f9278d3838c
+4	1659	1763663934552776023	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32e9fdea5d7eeba0
+4	1723	1763663934616606005	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c0f4d32051e64b70
+4	1845	1763663934738707626	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	302f7abf369ede46
+3	1882	1763663934775874521	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	30a19be361ec9575
+4	191	1763664157485157625	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c3a260e163b0074d
+192	430	1763664157688882216	/Users/nontthanakon/Documents/tomatocat-digital/Gem2Rail/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1h96o2n2/obj/armeabi-v7a/libswappywrapper.so	d5ce07cc0cbf12a9
+3	780	1763664158069428520	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8820b64597c4190d
+3	829	1763664158119034062	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b0b23f09ce69196b
+3	836	1763664158124114237	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	369b5f9278d3838c
+3	850	1763664158140562139	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	707fb65316f6c5a7
+3	852	1763664158143980229	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32e9fdea5d7eeba0
+3	953	1763664158244601022	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c0f4d32051e64b70
+3	1000	1763664158291564892	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	302f7abf369ede46
+3	1091	1763664158382725587	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	30a19be361ec9575
+1091	1183	1763664158475742951	/Users/nontthanakon/Documents/tomatocat-digital/Gem2Rail/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1h96o2n2/obj/armeabi-v7a/libgame.so	9c052442eca58894

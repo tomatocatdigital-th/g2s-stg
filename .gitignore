@@ -1,0 +1,81 @@
+# === Unity core ===
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Oo]bj/
+MemoryCaptures/
+UserSettings/
+Recordings/
+
+# === IDE ===
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# === OS / System ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Crash / Cache ===
+*.stacktrace
+*.crash
+*.log
+*.bak
+*.tmp
+
+# === Auto-generated ===
+/ExportedObj/
+/*.unitypackage
+*.apk
+*.aab
+*.app
+*.ipa
+
+# === Unity Addressables / Cache ===
+/ServerData/
+/StreamingAssets/aa/
+/StreamingAssets/AssetBundles/
+/Assets/AddressableAssetsData/AssetGroups/
+# Ignore Firebase desktop builds (too large)
+Assets/Firebase/Plugins/x86_64/
+Assets/Firebase/Plugins/x86/
+Assets/Firebase/m2repository/
+
+# (ถ้าใช้ Addressables จริง ค่อยเปิด comment กลับ)
+
+# === Visual Scripting (Bolt) ===
+/Assets/Bolt.Generated/
+
+# === Firebase / SDK generated ===
+/Assets/Firebase/m2repository/
+/Assets/Plugins/Android/Firebase*/editor/
+
+# === Git LFS optional ===
+# (ถ้าคุณใช้ Git LFS สำหรับ .png, .fbx, .blend, .wav ให้เปิดบรรทัดข้างล่าง)
+# *.png filter=lfs diff=lfs merge=lfs -text
+# *.fbx filter=lfs diff=lfs merge=lfs -text
+# *.blend filter=lfs diff=lfs merge=lfs -text
+# *.wav filter=lfs diff=lfs merge=lfs -text
+
+# === Keep these ===
+!/Assets/
+!/ProjectSettings/
+!/Packages/
+!/Assets/**/*.meta
+!/ProjectSettings/**/*.asset
+!/Packages/manifest.json
+!/Packages/packages-lock.json

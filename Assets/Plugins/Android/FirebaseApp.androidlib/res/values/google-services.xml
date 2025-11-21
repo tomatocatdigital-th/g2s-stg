@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">866362415219</string>
+  <string name="google_storage_bucket" translatable="false">tomatocat-gem2rail.firebasestorage.app</string>
+  <string name="project_id" translatable="false">tomatocat-gem2rail</string>
+  <string name="google_api_key" translatable="false">AIzaSyBzY8tVWFtfaPW_93z5zRIxoexIUnn0SFE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBzY8tVWFtfaPW_93z5zRIxoexIUnn0SFE</string>
+  <string name="google_app_id" translatable="false">1:866362415219:android:037f76bdde449ce4b6b206</string>
+  <string name="default_android_client_id" translatable="false">866362415219-6rr685tri1qtmj2jpgfr2lk47f75k8la.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">866362415219-l5ih0klb03ulsq80n7fsodmlgojhfgj7.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,20 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+dependencyResolutionManagement {
+    // ให้ใช้ repo ที่ประกาศใน settings เป็นหลัก
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url "https://dl.google.com/dl/android/maven2/" }
+    }
+}
+
+// *** อย่าลบส่วน include ของ Unity ด้านล่างไฟล์นี้ทิ้ง ***
+// (ปล่อยให้ Unity เติม/คงค่า include :launcher, :unityLibrary เอง)

@@ -1,0 +1,15 @@
+public class MenuHeader : MonoBehaviour
+{
+    public TMPro.TextMeshProUGUI helloText, coinsText, topScoreText;
+
+    void OnEnable()
+    {
+        var data = PlayerDataManager.I?.Data;
+        if (data != null)
+        {
+            if (helloText)  helloText.text  = $"Hello \"{data.playerName}\"";
+            if (coinsText)  coinsText.text  = data.coins.ToString();
+            if (topScoreText) topScoreText.text = data.topScore.ToString();
+        }
+    }
+}

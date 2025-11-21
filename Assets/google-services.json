@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "866362415219",
+    "project_id": "tomatocat-gem2rail",
+    "storage_bucket": "tomatocat-gem2rail.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866362415219:android:037f76bdde449ce4b6b206",
+        "android_client_info": {
+          "package_name": "com.tomatocardigital.gem2rail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866362415219-6rr685tri1qtmj2jpgfr2lk47f75k8la.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tomatocardigital.gem2rail",
+            "certificate_hash": "c8fc26e0c5c313ffd43611acff605c092b8d3e42"
+          }
+        },
+        {
+          "client_id": "866362415219-7iakac6ofjeed2kr9jdps27qddgqvfja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tomatocardigital.gem2rail",
+            "certificate_hash": "0d0e9c15bf6b1420fb93c2b0dd7a386b29f4fce7"
+          }
+        },
+        {
+          "client_id": "866362415219-b5klcr4rpfgrf0qqnj92j0o5bknk55vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tomatocardigital.gem2rail",
+            "certificate_hash": "4ac13412486fe9c5d421439632099a3068727862"
+          }
+        },
+        {
+          "client_id": "866362415219-uidd36fq2v6bsbgd4rc51cv9d6s7mgbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tomatocardigital.gem2rail",
+            "certificate_hash": "fa9bc8be5effb11d8c16bbac88c928bbd4b8e1ba"
+          }
+        },
+        {
+          "client_id": "866362415219-l5ih0klb03ulsq80n7fsodmlgojhfgj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzY8tVWFtfaPW_93z5zRIxoexIUnn0SFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866362415219-74ehge6klvttslk1pdr2pq56v4agltop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

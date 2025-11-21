@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be5035c0bc4ae41408a314c4217f4118, type: 3}
+  m_Name: WaveTable
+  m_EditorClassIdentifier: Assembly-CSharp::WaveTableSO
+  rows:
+  - wave: 1
+    baseSpeed: 13
+    cartsInWave: 15
+    spawnInterval: 2.5
+    laneLeft: 1
+    laneMid: 1
+    laneRight: 1
+    singleWeight: 100
+    doubleWeight: 0
+    tripleWeight: 0
+    bonusHearts: 0
+    extraCoins: 5
+    postWaveBreak: 5
+  - wave: 2
+    baseSpeed: 14
+    cartsInWave: 17
+    spawnInterval: 2.3
+    laneLeft: 1
+    laneMid: 1
+    laneRight: 1
+    singleWeight: 70
+    doubleWeight: 20
+    tripleWeight: 10
+    bonusHearts: 0
+    extraCoins: 0
+    postWaveBreak: 5
+  - wave: 3
+    baseSpeed: 15
+    cartsInWave: 19
+    spawnInterval: 2.3
+    laneLeft: 1
+    laneMid: 1
+    laneRight: 1
+    singleWeight: 60
+    doubleWeight: 20
+    tripleWeight: 20
+    bonusHearts: 0
+    extraCoins: 5
+    postWaveBreak: 5
+  - wave: 4
+    baseSpeed: 17
+    cartsInWave: 23
+    spawnInterval: 2.25
+    laneLeft: 1
+    laneMid: 1
+    laneRight: 1
+    singleWeight: 50
+    doubleWeight: 30
+    tripleWeight: 20
+    bonusHearts: 0
+    extraCoins: 5
+    postWaveBreak: 5
+  - wave: 5
+    baseSpeed: 25
+    cartsInWave: 25
+    spawnInterval: 2.1
+    laneLeft: 1
+    laneMid: 1
+    laneRight: 1
+    singleWeight: 40
+    doubleWeight: 30
+    tripleWeight: 30
+    bonusHearts: 1
+    extraCoins: 20
+    postWaveBreak: 5
